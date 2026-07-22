@@ -1,0 +1,10 @@
+[bot]
+debug = true
+language = "auto"
+
+[security]
+max_file_size = 50
+rate_limit = 10
+
+[ui]
+embed_color = "#d10000"

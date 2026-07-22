@@ -1,0 +1,7 @@
+import events.ready
+
+from app.startup import run
+
+
+if __name__ == "__main__":
+    run()

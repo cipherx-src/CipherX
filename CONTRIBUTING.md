@@ -14,4 +14,4 @@ Thank you for your interest in contributing to CipherX!
 - Follow PEP 8
 - Keep modules small
 - Separate UI and business logic
-- Reuse services whenever possible
+- Reuse services whenever possible 22
